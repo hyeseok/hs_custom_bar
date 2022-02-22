@@ -1,6 +1,6 @@
-# flutter_custom_ui
+# hs_custom_bar
 
-"Flutter custom ui" is a custom widget that implements a thermometer gauge bar.
+"hs_custom_bar" is a custom widget that implements a thermometer gauge bar.
 
 ## Where to use
 

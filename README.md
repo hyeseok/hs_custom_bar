@@ -2,13 +2,17 @@
 
 "hs_custom_bar" is a custom widget that implements a thermometer gauge bar.
 
+
+
 ## Where to use
 
 It can be used to show a certain mission or achievement rate.
 For example, complete 10 missions of the day gauge 5/10.
 
 - this is sample image.
-  <img src="assets/sample_image.png" alt="sample image" width="300"/>
+  <img src="https://github.com/hyeseok/hs_custom_bar/assets/sample_image.png" alt="sample image" width="300"/>
+
+
 
 ## How to use
 
@@ -24,6 +28,8 @@ For example, complete 10 missions of the day gauge 5/10.
 
 4. Adjustable gauge bar up and down, left and right length and round size
    (option)
+
+
 
 ##### Sample code ([Source Code](/lib/sample/sample_code.dart))
 

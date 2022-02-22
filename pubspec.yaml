@@ -1,6 +1,6 @@
 name: hs_custom_bar
 description: hs_custom_bar is custom flutter bar widget.
-version: 0.0.2
+version: 0.0.4
 homepage: https://github.com/hyeseok/hs_custom_bar
 
 environment:

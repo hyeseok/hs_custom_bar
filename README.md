@@ -10,7 +10,7 @@ It can be used to show a certain mission or achievement rate.
 For example, complete 10 missions of the day gauge 5/10.
 
 - this is sample image.
-  <img src="https://github.com/hyeseok/hs_custom_bar/blob/master/assets/sample_image.png" alt="sample image" width="300"/>
+  <img src="https://cdn.jsdelivr.net/gh/hyeseok/hs_custom_bar/assets/sample_image.png" alt="sample image" width="300"/>
 
 
 
@@ -31,6 +31,6 @@ For example, complete 10 missions of the day gauge 5/10.
 
 
 
-##### Sample code ([Source Code](/lib/sample/sample_code.dart))
+##### Sample code ([Source Code](https://github.com/hyeseok/hs_custom_bar/blob/master/lib/sample/sample_code.dart))
 
 

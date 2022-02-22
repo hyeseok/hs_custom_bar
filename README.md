@@ -10,7 +10,7 @@ It can be used to show a certain mission or achievement rate.
 For example, complete 10 missions of the day gauge 5/10.
 
 - this is sample image.
-  <img src="/assets/sample_image.png" alt="sample image" width="300"/>
+  <img src="https://github.com/hyeseok/hs_custom_bar/blob/master/assets/sample_image.png" alt="sample image" width="300"/>
 
 
 

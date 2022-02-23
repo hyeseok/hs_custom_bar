@@ -1,5 +1,5 @@
 # hs_custom_bar
-[Pub Version]
+[![Pub](https://img.shields.io/pub/v/hs_custom_bar.svg)](https://pub.dev/packages/hs_custom_bar)
 
 "hs_custom_bar" is a custom widget that implements a thermometer gauge bar.
 
@@ -66,7 +66,7 @@ For example, complete 10 missions of the day gauge 5/10.
 | `barWidth` | gauge bar thickness. |
 | `barHeight` | gauge bar height. |
 | `barPointCount` | number of gauge bar rulers. |
-| `showCountView` | Gauge bar maximum and minimum count display (marked position: lower right). |
+| `showCountView` | Gauge bar maximum and minimum count display `(marked position: lower right)`. |
 
 <br>
 

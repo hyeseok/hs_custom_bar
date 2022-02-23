@@ -1,3 +1,8 @@
+## 0.0.5
+
+- add pub version at readme file.
+- edit custom usage description to package.
+
 ## 0.0.4
 
 - edit readme sample image path (git cdn)
